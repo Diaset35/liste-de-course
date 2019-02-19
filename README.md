@@ -1,6 +1,6 @@
 # liste-de-course
 
-Compteur pour liste de course (ajout et suppression de produits)
+Compteur pour liste de course (ajout et suppression de produits) via l'interface Node Red par ESP32
 
 # Videos
 
