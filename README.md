@@ -12,7 +12,7 @@ Compteur pour liste de course (ajout et suppression de produits) via l'interface
 
 
 # Node-red
-![shema](compteur.png)
+![shema](ARBOPEPITO.png)
 ![shema](SCREENPEPITO.png)
 
 # liste composant
